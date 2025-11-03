@@ -13,3 +13,6 @@ The BePLi Dataset v1 is a large-scale image dataset specifically designed for ma
 The dataset contains 3,700+ high-resolution RGB images collected under diverse real-world conditions — including different lighting, weather, and beach surface types — to enhance model robustness and generalization.
 
 Each image is fully annotated with pixel-level segmentation masks identifying areas of plastic litter, making it suitable for both image classification and semantic segmentation tasks.
+
+
+Dataset:- [BePLi Dataset v1 on SEANOE](https://www.seanoe.org/data/00811/92297/)
