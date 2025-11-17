@@ -1,0 +1,6 @@
+train: C:/Users/CW/Desktop/pbl/waste/yolomodel/dataset/train
+val: C:/Users/CW/Desktop/pbl/waste/yolomodel/dataset/val
+
+nc: 1
+names:
+  - plastic
